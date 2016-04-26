@@ -24,6 +24,7 @@ coverage
 build/Release
 
 # Dependency directory
+<<<<<<< HEAD
 # https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
 node_modules
 
@@ -80,3 +81,12 @@ $RECYCLE.BIN/
 
 #WebStorm Config files
 .idea
+=======
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+>>>>>>> af3e095722d89adfcd2098bccf3515e87a799cf8
